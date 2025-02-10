@@ -7,7 +7,7 @@ This project consists of a frontend and backend, both of which can be run locall
 
 ## Areas of improvement
 
-- Role based authentication and authorization using JWT is pending
+- Responsiveness for all devices are pending.
 
 ---
 
@@ -25,9 +25,6 @@ This project consists of a frontend and backend, both of which can be run locall
 
 ---
 
-## Login Instructions
-- **Email Address**: admin@roboclassess.com
-- **Password**: 123456
 
 ### Frontend
 
@@ -40,7 +37,6 @@ This project consists of a frontend and backend, both of which can be run locall
    ```bash
    npm run dev
 
-3. **Replace the .env.local file's credentials with your own credentials**:
 
 
 ### Backend
